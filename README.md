@@ -24,7 +24,7 @@ This is the frontend for the Party Organizer application built with Flutter.
     flutter run
     ```
 
-### Screens
+### Screens -> dans /lib
 
 - `LoginScreen` - User login screen
 - `SignupScreen` - User registration screen
